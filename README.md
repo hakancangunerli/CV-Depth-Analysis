@@ -1,5 +1,5 @@
 # CV-Depth-Analysis
-depth and person detection (INCOMPLETE) 
+depth and person detection
 
 This is a part of my VIP research project where using Intel Realsense d435i I've to detect a person and calculate their distance from the camera location using the depth sensor output (shown in a colormap) 
 
